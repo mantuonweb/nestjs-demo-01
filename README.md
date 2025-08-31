@@ -25,7 +25,7 @@ nest new explore --package-manager npm --skip-git
 ### Step 2: Navigate to Project Directory
 
 ```bash
-cd nest-logging-lib
+cd explore
 ```
 
 ### Step 3: Remove Main Application Files (Library-Only Setup)
